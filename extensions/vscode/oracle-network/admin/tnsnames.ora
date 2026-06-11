@@ -1,0 +1,10633 @@
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+CHRISTUSSPOHN-PROD.ZDWCSHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcshp01)
+  )
+)
+
+ASSOCIATEDFOOD-PROD.ZDWAFSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwafsp01)
+  )
+)
+
+HARMONS-PROD.ZDWHRMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhrmp01)
+  )
+)
+
+REGIONALONEHEALTH-PROD.ZDWROHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwrohp01)
+  )
+)
+
+CHPHEALTHSPAN-PROD.ZDWCHPP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwchpp01)
+  )
+)
+
+HCDPALMBEACH-PROD.ZDWHCDP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhcdp01)
+  )
+)
+
+JOHNSHOPKINS-PROD.ZDWJHPP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwjhpp01)
+  )
+)
+
+MARSHFIELD-PROD.ZDWMFDP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmfdp01)
+  )
+)
+
+BEAUMONT-PROD.ZDWBMTP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbmtp01)
+  )
+)
+
+FAIRVIEW-PROD.ZDWFRVP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwfrvp01)
+  )
+)
+
+MAYOCLINIC-PROD.ZDWMYOP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmyop01)
+  )
+)
+
+YALE-PROD.ZDWYLEP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwylep01)
+  )
+)
+
+MCLAREN-PROD.ZDWMCLP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmclp01)
+  )
+)
+
+PRC-PROD.ZDWPRCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwprcp01)
+  )
+)
+
+FOODCITY-PROD.ZDWFDCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwfdcp01)
+  )
+)
+
+MGH-PROD.ZDWMGHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmghp01)
+  )
+)
+
+BIMART-PROD.ZDWBIMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbimp01)
+  )
+)
+
+HENRYFORD-PROD.ZDWHNFP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhnfp01)
+  )
+)
+
+INTERMOUNTAIN-PROD.ZDWIMTP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwimtp01)
+  )
+)
+
+KELSEYSEYBOLD-PROD.ZDWKLSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwklsp01)
+  )
+)
+
+DARTMOUTH-PROD.ZDWDRTP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdrtp01)
+  )
+)
+
+BIGY-PROD.ZDWBGYP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbgyp01)
+  )
+)
+
+VANDERBILT-PROD.ZDWVNDP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwvndp01)
+  )
+)
+
+AVERA-PROD.ZDWAVRP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwavrp01)
+  )
+)
+
+YAKIMAVALLEY-PROD.ZDWYKVP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwykvp01)
+  )
+)
+
+CEREBRALRX-PROD.ZDWCRXP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcrxp01)
+  )
+)
+
+MEDMINDER-PROD.ZDWMMIP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmmip01)
+  )
+)
+
+EM_AGENT=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaconda-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=em_agent)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+FLETCHERALLEN-PROD.TXFLAP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txflap01-55)
+  )
+)
+
+KINNEY-PROD.TXKINP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txkinp01-55)
+  )
+)
+
+WELLSTAR-PROD.TXWELP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwelp01-55)
+  )
+)
+
+MARCGLASSMAN-PROD.TXMGMP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmgmp01-55)
+  )
+)
+
+MSK-PROD.TXMSKP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmskp01-55)
+  )
+)
+
+HENRYFORD-PROD.TXHNFP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhnfp01-55)
+  )
+)
+
+BAYLOR-PROD.TXBAYP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbayp01-55)
+  )
+)
+
+PRICECUTTER-PROD.TXPCTP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txpctp01-55)
+  )
+)
+
+COBORNS-PROD.TXCOBP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcobp01-55)
+  )
+)
+
+VANDERBILT-PROD.TXVNDP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txvndp01-55)
+  )
+)
+
+COOKCOUNTY-PROD.TXCCYP01-55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=anaheim-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txccyp01-55)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+QA-DATAHIDING.ZDWNDCQ06=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq06)
+  )
+)
+
+NDC-INTR2.ZDWNDCU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcu02)
+  )
+)
+
+PRESCRIPTIONMART-UAT.ZDWPMTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwpmtu01)
+  )
+)
+
+MEDSTARHEALTH-UAT.ZDWMDSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmdsu01)
+  )
+)
+
+NIEMANNFOODS-UAT.ZDWNFDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwnfdu01)
+  )
+)
+
+SPARTAN-UAT.ZDWSPRU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwspru01)
+  )
+)
+
+UPMC-UAT.ZDWUPMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwupmu01)
+  )
+)
+
+QA19.ZDWNDCQ19=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq19)
+  )
+)
+
+MAILMYPRESCRIPTIONS-UAT.ZDWMMPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmmpu01)
+  )
+)
+
+MUSCOGEE-UAT.ZDWMUSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmusu01)
+  )
+)
+
+FLORIDAHEALTHCARE-UAT.ZDWFHCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwfhcu01)
+  )
+)
+
+EASYSCRIPTS-UAT.ZDWEZSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwezsu01)
+  )
+)
+
+GOLDDB.ZDWGOLDDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwgolddb)
+  )
+)
+
+UPSCRIPTHEALTH-UAT.ZDWUPHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwuphu01)
+  )
+)
+
+GENESISHEALTH-UAT.ZDWGENU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwgenu01)
+  )
+)
+
+UALABAMA-UAT.ZDWUABU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwuabu01)
+  )
+)
+
+ASSOCIATEDFOOD-UAT.ZDWAFSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwafsu01)
+  )
+)
+
+INTERNAL-TRNG.ZDWINTT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwintt01)
+  )
+)
+
+QA31.ZDWNDCQ31=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq31)
+  )
+)
+
+TOPS-UAT.ZDWTOPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwtopu01)
+  )
+)
+
+COVENANT-UAT.ZDWCOVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcovu01)
+  )
+)
+
+LLUHEALTH-UAT.ZDWLLUU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwlluu01)
+  )
+)
+
+BROOKSHIREBROTHERS-UAT.ZDWBBSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbbsu01)
+  )
+)
+
+RALEYS-UAT.ZDWRLYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwrlyu01)
+  )
+)
+
+ATRIUSHEALTH-UAT.ZDWAHIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwahiu01)
+  )
+)
+
+REGIONALONEHEALTH-UAT.ZDWROHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwrohu01)
+  )
+)
+
+CHRISTUSSPOHN-UAT.ZDWCSHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcshu01)
+  )
+)
+
+SENTARA-UAT.ZDWSENU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsenu01)
+  )
+)
+
+GEISINGER-UAT.ZDWGHSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwghsu01)
+  )
+)
+
+HARMONS-UAT.ZDWHRMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhrmu01)
+  )
+)
+
+MOUNTAINSTATES-UAT.ZDWMSHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmshu01)
+  )
+)
+
+EASTERNMAINE-UAT.ZDWEMHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwemhu01)
+  )
+)
+
+NMC-UAT.ZDWNMCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwnmcu01)
+  )
+)
+
+HCDPALMBEACH-UAT.ZDWHCDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhcdu01)
+  )
+)
+
+CHPHEALTHSPAN-UAT.ZDWCHPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwchpu01)
+  )
+)
+
+CHRISTIANACARE-UAT.ZDWCCHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcchu01)
+  )
+)
+
+HEALTHFIRST-UAT.ZDWHFFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhffu01)
+  )
+)
+
+BANNERHEALTH-UAT.ZDWBAHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbahu01)
+  )
+)
+
+FLETCHERALLEN-UAT.ZDWFLAU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwflau01)
+  )
+)
+
+YAKIMAVALLEY-UAT.ZDWYKVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwykvu01)
+  )
+)
+
+VANDERBILT-UAT.ZDWVNDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwvndu01)
+  )
+)
+
+BIGY-UAT.ZDWBGYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbgyu01)
+  )
+)
+
+RXCROSSROADS-UAT.ZDWRXCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwrxcu01)
+  )
+)
+
+RXCROSSROADS-STAGE2.ZDWRXCS02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwrxcs02)
+  )
+)
+
+RXCROSSROADS-STAGE.ZDWRXCS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwrxcs01)
+  )
+)
+
+STJOHNPHARMACIES-UAT.ZDWSJPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsjpu01)
+  )
+)
+
+STJOHNPHARMACIES-UAT2.ZDWSJPU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsjpu02)
+  )
+)
+
+KELSEYSEBOLD-UAT.ZDWKLSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwklsu01)
+  )
+)
+
+JOHNSHOPKINS-UAT.ZDWJHPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwjhpu01)
+  )
+)
+
+DARTMOUTH-UAT.ZDWDRTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdrtu01)
+  )
+)
+
+ISMC08-UAT.ZDWDHMU08=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmu08)
+  )
+)
+
+ISMC09-UAT.ZDWDHMU09=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmu09)
+  )
+)
+
+QA12.ZDWNDCQ12=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq12)
+  )
+)
+
+USONCOLOGY-UAT.ZDWUSOU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwusou01)
+  )
+)
+
+QA18.ZDWNDCQ18=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq18)
+  )
+)
+
+QA-SP4.ZDWQASP4=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwqasp4)
+  )
+)
+
+MARSHFIELD-UAT.ZDWMFDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmfdu01)
+  )
+)
+
+COOKCOUNTY-UAT.ZDWCCYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwccyu01)
+  )
+)
+
+QA14.ZDWNDCQ14=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq14)
+  )
+)
+
+QA30.ZDWNDCQ30=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq30)
+  )
+)
+
+ISMC-TRNG.ZDWNDCT32=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndct32)
+  )
+)
+
+INTERMOUNTAIN-UAT.ZDWIMTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwimtu01)
+  )
+)
+
+WAKEFERN-UAT.ZDWWKFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwwkfu01)
+  )
+)
+
+APPALACHIAN-UAT.ZDWARHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwarhu01)
+  )
+)
+
+FROEDTERT-UAT.ZDWFROU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwfrou01)
+  )
+)
+
+COBORNS-UAT.ZDWCOBU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcobu01)
+  )
+)
+
+BAYLOR-UAT.ZDWBAYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbayu01)
+  )
+)
+
+MSK-UAT.ZDWMSKU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmsku01)
+  )
+)
+
+BIMART-UAT.ZDWBIMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbimu01)
+  )
+)
+
+SHANDS-UAT.ZDWSNDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsndu01)
+  )
+)
+
+WELLSTAR-UAT.ZDWWELU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwwelu01)
+  )
+)
+
+PRICECUTTER-UAT.ZDWPCTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwpctu01)
+  )
+)
+
+AVERA-UAT.ZDWAVRU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwavru01)
+  )
+)
+
+HYVEE-UAT.ZDWHYVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhyvu01)
+  )
+)
+
+PGHDEMO-TRNG.ZDWPDPL01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwpdpl01)
+  )
+)
+
+MAYOCLINIC-UAT.ZDWMYOU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmyou01)
+  )
+)
+
+QA09.ZDWNDCQ09=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq09)
+  )
+)
+
+QA28.ZDWNDCQ28=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq28)
+  )
+)
+
+DWDHMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmu01)
+  )
+)
+
+ISMC04-UAT.ZDWDHMU04=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmu04)
+  )
+)
+
+ISMC05-UAT.ZDWDHMU05=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmu05)
+  )
+)
+
+ISMC06-UAT.ZDWDHMU06=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmu06)
+  )
+)
+
+INGLES-UAT.ZDWINGU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwingu01)
+  )
+)
+
+QA20.ZDWNDCQ20=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq20)
+  )
+)
+
+NDC-QAAUTO2.ZDWNDCQ02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq02)
+  )
+)
+
+HOMELAND-UAT.ZDWHACU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhacu01)
+  )
+)
+
+MCLAREN-UAT.ZDWMCLU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmclu01)
+  )
+)
+
+YALE-UAT.ZDWYLEU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwyleu01)
+  )
+)
+
+QA22.ZDWNDCQ22=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq22)
+  )
+)
+
+QA25.ZDWNDCQ25=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq25)
+  )
+)
+
+SANDBOX01.ZDWNDCL06=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcl06)
+  )
+)
+
+QA23.ZDWNDCQ23=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq23)
+  )
+)
+
+QA_FUNC.ZDWNDCQ04=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq04)
+  )
+)
+
+QA-MAIL.ZDWNDCQ05=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq05)
+  )
+)
+
+MARCGLASSMAN-UAT.ZDWMGMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmgmu01)
+  )
+)
+
+QA21.ZDWNDCQ21=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq21)
+  )
+)
+
+QA24.ZDWNDCQ24=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq24)
+  )
+)
+
+QA16.ZDWNDCQ16=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq16)
+  )
+)
+
+QA-MEDISPAN.ZDWNDCQ07=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq07)
+  )
+)
+
+QA17.ZDWNDCQ17=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq17)
+  )
+)
+
+QA29.ZDWNDCQ29=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq29)
+  )
+)
+
+NDC-QAAUTO1.ZDWNDCQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq01)
+  )
+)
+
+PREQA1.ZDWNDCT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndct01)
+  )
+)
+
+QA11.ZDWNDCQ11=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq11)
+  )
+)
+
+QA13.ZDWNDCQ13=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq13)
+  )
+)
+
+QA15.ZDWNDCQ15=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq15)
+  )
+)
+
+PREQA1.ZDWNDCQ03=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq03)
+  )
+)
+
+QA32.ZDWNDCQ32=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq32)
+  )
+)
+
+QA33.ZDWNDCQ33=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq33)
+  )
+)
+
+QA34.ZDWNDCQ34=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq34)
+  )
+)
+
+QA35.ZDWNDCQ35=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq35)
+  )
+)
+
+QA36.ZDWNDCQ36=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq36)
+  )
+)
+
+QA37.ZDWNDCQ37=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq37)
+  )
+)
+
+QA38.ZDWNDCQ38=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq38)
+  )
+)
+
+QA39.ZDWNDCQ39=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq39)
+  )
+)
+
+ARAQA1.ZDWARAQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwaraq01)
+  )
+)
+
+DWBOTL01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbotl01)
+  )
+)
+
+DWBOTQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbotq01)
+  )
+)
+
+WEGMANS-STAGE2.ZDWWEGS02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwwegs02)
+  )
+)
+
+WEGMANS-UAT.ZDWWEGU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwwegu01)
+  )
+)
+
+FAIRVIEW-UAT.ZDWFRVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwfrvu01)
+  )
+)
+
+KINNEY-UAT.ZDWKINU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwkinu01)
+  )
+)
+
+BROOKSHIRE-UAT.ZDWBRKU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbrku01)
+  )
+)
+
+BROOKSHIRE-UAT2.ZDWBRKU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbrku02)
+  )
+)
+
+DWFDCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwfdcu01)
+  )
+)
+
+HENRYFORD-UAT.ZDWHNFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhnfu01)
+  )
+)
+
+PRC-UAT.ZDWPRCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwprcu01)
+  )
+)
+
+AHOLD-UAT.ZDWAHDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwahdu01)
+  )
+)
+
+AHOLD-TEST.ZDWAHDT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwahdt01)
+  )
+)
+
+MGH-UAT.ZDWMGHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmghu01)
+  )
+)
+
+QA27.ZDWNDCQ27=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq27)
+  )
+)
+
+QA49.ZDWNDCQ49=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq49)
+  )
+)
+
+QA40.ZDWNDCQ40=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq40)
+  )
+)
+
+EM_AGENT=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=em_agent)
+  )
+)
+
+HARTIGDRUG-UAT.ZDWHGDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhgdu01)
+  )
+)
+
+BJC-UAT.ZDWBJCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbjcu01)
+  )
+)
+
+HARPSFOODSTORES-UAT.ZDWHFSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhfsu01)
+  )
+)
+
+SCRIPTHEROPHARMACY-UAT.ZDWSHOU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwshou01)
+  )
+)
+
+SCRIPTHEROPHARMACY-UAT2.ZDWSHOU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwshou02)
+  )
+)
+
+CHASEBREXTON-UAT.ZDWCHBU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwchbu01)
+  )
+)
+
+GRANDRONDE-UAT.ZDWGRCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwgrcu01)
+  )
+)
+
+QA45.ZDWNDCQ45=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq45)
+  )
+)
+
+QA46.ZDWNDCQ46=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq46)
+  )
+)
+
+QA47.ZDWNDCQ47=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq47)
+  )
+)
+
+QA48.ZDWNDCQ48=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq48)
+  )
+)
+
+QA50.ZDWNDCQ50=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq50)
+  )
+)
+
+QA51.ZDWNDCQ51=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq51)
+  )
+)
+
+QA52.ZDWNDCQ52=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq52)
+  )
+)
+
+QA53.ZDWNDCQ53=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq53)
+  )
+)
+
+QA54.ZDWNDCQ54=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq54)
+  )
+)
+
+QA55.ZDWNDCQ55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq55)
+  )
+)
+
+QA56.ZDWNDCQ56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndcq56)
+  )
+)
+
+PREQA3.ZDWNDCT03=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwndct03)
+  )
+)
+
+BIOLOGICS-STAGE.ZDWBIOS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbios01)
+  )
+)
+
+BIOLOGICS-STAGE2.ZDWBIOS02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbios02)
+  )
+)
+
+BIOLOGICS-UAT.ZDWBIOU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbiou01)
+  )
+)
+
+DANAFARBER-UAT.ZDWDFCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdfcu01)
+  )
+)
+
+HIMS-UAT.ZDWHIMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=asp-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhimu01)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+ISMC08-PROD.TXDHMP08-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp08-56)
+  )
+)
+
+ISMC06-PROD.TXDHMP06-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp06-56)
+  )
+)
+
+ISMC04-PROD.TXDHMP04-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp04-56)
+  )
+)
+
+ISMC09-PROD.TXDHMP09-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp09-56)
+  )
+)
+
+USONCOLOGY-PROD.TXUSOP01-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txusop01-56)
+  )
+)
+
+NMC-PROD.TXNMCP01-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txnmcp01-56)
+  )
+)
+
+TXDHMP01-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp01-56)
+  )
+)
+
+ISMC05-PROD.TXDHMP05-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp05-56)
+  )
+)
+
+WAKEFERN-PROD.TXWKFP01-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwkfp01-56)
+  )
+)
+
+CARELONRX-PROD.TXCRLP01-56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=banana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrlp01-56)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+INTERMOUNTAIN-PROD.TXIMTP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=tximtp01-57)
+  )
+)
+
+SPARTAN-PROD.TXSPRP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsprp01-57)
+  )
+)
+
+INGLES-PROD.TXINGP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txingp01-57)
+  )
+)
+
+AVERA-PROD.TXAVRP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txavrp01-57)
+  )
+)
+
+MCLAREN-PROD.TXMCLP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmclp01-57)
+  )
+)
+
+UPSCRIPTHEALTH-PROD.TXUPHP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuphp01-57)
+  )
+)
+
+CHPHEALTHSPAN-PROD.TXCHPP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchpp01-57)
+  )
+)
+
+APPALACHIAN-PROD.TXARHP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txarhp01-57)
+  )
+)
+
+JOHNSHOPKINS-PROD.TXJHPP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txjhpp01-57)
+  )
+)
+
+HEALTHFIRST-PROD.TXHFFP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhffp01-57)
+  )
+)
+
+KELSEYSEYBOLD-PROD.TXKLSP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txklsp01-57)
+  )
+)
+
+MAILMYPRESCRIPTIONS-PROD.TXMMPP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmmpp01-57)
+  )
+)
+
+BANNERHEALTH-PROD.TXBAHP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbahp01-57)
+  )
+)
+
+YAKIMAVALLEY-PROD.TXYKVP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txykvp01-57)
+  )
+)
+
+STJOHNPHARMACIES-PROD.TXSJPP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsjpp01-57)
+  )
+)
+
+CITYOFPHILADELPHIA-PROD.TXPHLP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphlp01-57)
+  )
+)
+
+MEDMINDER-PROD.TXMMIP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmmip01-57)
+  )
+)
+
+INDIANAUNIVERSITY-PROD.TXINDP01-57=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bonnet-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txindp01-57)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+CHILDRENSHOSPITAL-PROD.ZDWCHSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwchsp01)
+  )
+)
+
+PHOENIXCHILDRENS-PROD.ZDWPHXP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwphxp01)
+  )
+)
+
+STJOSEPHS-PROD.ZDWSTJP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwstjp01)
+  )
+)
+
+AHF-PROD.ZDWAHFP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwahfp01)
+  )
+)
+
+SOUTHERNOHIOMC-PROD.ZDWSOMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsomp01)
+  )
+)
+
+ADVENTISTHEALTH-PROD.ZDWAVTP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwavtp01)
+  )
+)
+
+INDIANAUNIVERSITY-PROD.ZDWINDP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwindp01)
+  )
+)
+
+MEDSTARHEALTH-PROD.ZDWMDSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmdsp01)
+  )
+)
+
+HIMS-PROD.ZDWHIMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhimp01)
+  )
+)
+
+RALEYS-PROD.ZDWRLYP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwrlyp01)
+  )
+)
+
+LLUHEALTH-PROD.ZDWLLUP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwllup01)
+  )
+)
+
+BROOKSHIREBROTHERS-PROD.ZDWBBSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbbsp01)
+  )
+)
+
+ATRIUSHEALTH-PROD.ZDWAHIP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwahip01)
+  )
+)
+
+MOUNTAINSTATES-PROD.ZDWMSHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmshp01)
+  )
+)
+
+SENTARA-PROD.ZDWSENP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsenp01)
+  )
+)
+
+EASTERNMAINE-PROD.ZDWEMHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwemhp01)
+  )
+)
+
+HEALTHFIRST-PROD.ZDWHFFP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhffp01)
+  )
+)
+
+BANNERHEALTH-PROD.ZDWBAHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbahp01)
+  )
+)
+
+FLETCHERALLEN-PROD.ZDWFLAP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwflap01)
+  )
+)
+
+STJOHNPHARMACIES-PROD.ZDWSJPP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsjpp01)
+  )
+)
+
+COOKCOUNTY-PROD.ZDWCCYP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwccyp01)
+  )
+)
+
+WAKEFERN-PROD.ZDWWKFP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwwkfp01)
+  )
+)
+
+APPALACHIAN-PROD.ZDWARHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwarhp01)
+  )
+)
+
+HOMELAND-PROD.ZDWHACP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhacp01)
+  )
+)
+
+TOPS-PROD.ZDWTOPP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwtopp01)
+  )
+)
+
+COBORNS-PROD.ZDWCOBP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcobp01)
+  )
+)
+
+MARCGLASSMAN-PROD.ZDWMGMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmgmp01)
+  )
+)
+
+BAYLOR-PROD.ZDWBAYP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbayp01)
+  )
+)
+
+WELLSTAR-PROD.ZDWWELP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwwelp01)
+  )
+)
+
+MSK-PROD.ZDWMSKP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmskp01)
+  )
+)
+
+INGLES-PROD.ZDWINGP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwingp01)
+  )
+)
+
+CHRISTIANACARE-PROD.ZDWCCHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcchp01)
+  )
+)
+
+NMC-PROD.ZDWNMCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwnmcp01)
+  )
+)
+
+DWBOTA01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbota01)
+  )
+)
+
+BIZOPT-TEST.ZDWBOTP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbotp01)
+  )
+)
+
+DWBOTP02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbotp02)
+  )
+)
+
+PRICECUTTER-PROD.ZDWPCTP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwpctp01)
+  )
+)
+
+EM_AGENT=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=bushmaster-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=em_agent)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+SCRIPTHEROPHARMACY-PROD.TXSHOP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txshop01-58)
+  )
+)
+
+UALABAMA-PROD.TXUABP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuabp01-58)
+  )
+)
+
+HCDPALMBEACH-PROD.TXHCDP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhcdp01-58)
+  )
+)
+
+HARTIGDRUG-PROD.TXHGDP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhgdp01-58)
+  )
+)
+
+CHASEBREXTON-PROD.TXCHBP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchbp01-58)
+  )
+)
+
+FLORIDAHEALTHCARE-PROD.TXFHCP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfhcp01-58)
+  )
+)
+
+MUSCOGEE-PROD.TXMUSP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmusp01-58)
+  )
+)
+
+MOUNTAINSTATES-PROD.TXMSHP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmshp01-58)
+  )
+)
+
+HARPSFOODSTORES-PROD.TXHFSP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhfsp01-58)
+  )
+)
+
+GENESISHEALTH-PROD.TXGENP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txgenp01-58)
+  )
+)
+
+EASTERNMAINE-PROD.TXEMHP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txemhp01-58)
+  )
+)
+
+MEDSTARHEALTH-PROD.TXMDSP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmdsp01-58)
+  )
+)
+
+HIMS-PROD.TXHIMP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhimp01-58)
+  )
+)
+
+EASYSCRIPTS-PROD.TXEZSP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txezsp01-58)
+  )
+)
+
+GRANDRONDE-PROD.TXGRCP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txgrcp01-58)
+  )
+)
+
+SENTARA-PROD.TXSENP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsenp01-58)
+  )
+)
+
+PRESCRIPTIONMART-PROD.TXPMTP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txpmtp01-58)
+  )
+)
+
+SIMPLEHEALTH-PROD.TXSHIP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txship01-58)
+  )
+)
+
+CEREBRALRX-PROD.TXCRXP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrxp01-58)
+  )
+)
+
+ATRIUSHEALTH-PROD.TXAHIP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahip01-58)
+  )
+)
+
+LEMED-PROD.TXLEMP01-58=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=canape-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txlemp01-58)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+HOMELAND-PROD.TXHACP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhacp01-61)
+  )
+)
+
+FOODCITY-PROD.TXFDCP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfdcp01-61)
+  )
+)
+
+MARSHFIELD-PROD.TXMFDP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmfdp01-61)
+  )
+)
+
+BIGY-PROD.TXBGYP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbgyp01-61)
+  )
+)
+
+PRC-PROD.TXPRCP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txprcp01-61)
+  )
+)
+
+DANAFARBER-PROD.TXDFCP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdfcp01-61)
+  )
+)
+
+DARTMOUTH-PROD.TXDRTP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdrtp01-61)
+  )
+)
+
+COVENANT-PROD.TXCOVP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcovp01-61)
+  )
+)
+
+MGH-PROD.TXMGHP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmghp01-61)
+  )
+)
+
+BEAUMONT-PROD.TXBMTP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbmtp01-61)
+  )
+)
+
+BROOKSHIRE-PROD.TXBRKP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbrkp01-61)
+  )
+)
+
+TOPS-PROD.TXTOPP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txtopp01-61)
+  )
+)
+
+BIMART-PROD.TXBIMP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbimp01-61)
+  )
+)
+
+BJC-PROD.TXBJCP01-61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=carolina-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbjcp01-61)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+FAIRVIEW-PROD.TXFRVP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfrvp01-60)
+  )
+)
+
+MAYOCLINIC-PROD.TXMYOP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmyop01-60)
+  )
+)
+
+WEGMANS-PROD.TXWEGP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwegp01-60)
+  )
+)
+
+YALE-PROD.TXYLEP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txylep01-60)
+  )
+)
+
+ADVENTISTHEALTH-PROD.TXAVTP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txavtp01-60)
+  )
+)
+
+SOUTHERNOHIOMC-PROD.TXSOMP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsomp01-60)
+  )
+)
+
+AHF-PROD.TXAHFP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahfp01-60)
+  )
+)
+
+STJOSEPHS-PROD.TXSTJP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txstjp01-60)
+  )
+)
+
+PHOENIXCHILDRENS-PROD.TXPHXP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphxp01-60)
+  )
+)
+
+CLINICASV-PROD.TXCSVP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcsvp01-60)
+  )
+)
+
+CHEROKEE-PROD.TXCNHP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcnhp01-60)
+  )
+)
+
+UNIVPHARMACY-PROD.TXUNIP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txunip01-60)
+  )
+)
+
+CHILDRENSHOSPITAL-PROD.TXCHSP01-60=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cascabel-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchsp01-60)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+ASSOCIATEDFOOD-PROD.TXAFSP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txafsp01-62)
+  )
+)
+
+GEISINGER-PROD.TXGHSP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txghsp01-62)
+  )
+)
+
+CHRISTIANACARE-PROD.TXCCHP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcchp01-62)
+  )
+)
+
+REGIONALONEHEALTH-PROD.TXROHP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrohp01-62)
+  )
+)
+
+BROOKSHIREBROTHERS-PROD.TXBBSP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbbsp01-62)
+  )
+)
+
+UPMC-PROD.TXUPMP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txupmp01-62)
+  )
+)
+
+CHRISTUSSPOHN-PROD.TXCSHP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcshp01-62)
+  )
+)
+
+HARMONS-PROD.TXHRMP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhrmp01-62)
+  )
+)
+
+LLUHEALTH-PROD.TXLLUP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txllup01-62)
+  )
+)
+
+NIEMANNFOODS-PROD.TXNFDP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txnfdp01-62)
+  )
+)
+
+RXCROSSROADS-PROD.TXRXCP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrxcp01-62)
+  )
+)
+
+BIOLOGICS-PROD.TXBIOP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbiop01-62)
+  )
+)
+
+RALEYS-PROD.TXRLYP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrlyp01-62)
+  )
+)
+
+STVINCENTHEALTH-PROD.TXSVHP01-62=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cayenne-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsvhp01-62)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=chipolte-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=chipolte-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+AHOLD-PROD.TXAHDP01-71=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=rocoto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahdp01-71)
+  )
+)
+
+AHOLD-PROD.TXAHDP01-72=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=sannam-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahdp01-72)
+  )
+)
+
+AHOLD-PROD.TXAHDP01-73=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=serrano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahdp01-73)
+  )
+)
+
+AHOLD-PROD.TXAHDP01-74=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=tabasco-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahdp01-74)
+  )
+)
+
+CARELONRX-PROD.TXCRLP01-63=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=chipolte-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrlp01-63)
+  )
+)
+
+BAPTISTHEALTHSF-PROD.TXBAPP01-63=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=chipolte-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbapp01-63)
+  )
+)
+
+UNIVSOUTHERNCALIF-PROD.TXUSCP01-63=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=chipolte-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuscp01-63)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+BROOKSHIRE-PROD.ZDWBRKP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbrkp01)
+  )
+)
+
+HYVEE-PROD.ZDWHYVP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhyvp01)
+  )
+)
+
+KINNEY-PROD.ZDWKINP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwkinp01)
+  )
+)
+
+WEGMANS-PROD.ZDWWEGP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwwegp01)
+  )
+)
+
+GEISINGER-PROD.ZDWGHSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwghsp01)
+  )
+)
+
+STVINCENTHEALTH-PROD.ZDWSVHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsvhp01)
+  )
+)
+
+UALABAMA-PROD.ZDWUABP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwuabp01)
+  )
+)
+
+HARTIGDRUG-PROD.ZDWHGDP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhgdp01)
+  )
+)
+
+GENESISHEALTH-PROD.ZDWGENP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwgenp01)
+  )
+)
+
+EASYSCRIPTS-PROD.ZDWEZSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwezsp01)
+  )
+)
+
+FLORIDAHEALTHCARE-PROD.ZDWFHCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwfhcp01)
+  )
+)
+
+MUSCOGEE-PROD.ZDWMUSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmusp01)
+  )
+)
+
+HARPSFOODSTORES-PROD.ZDWHFSP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwhfsp01)
+  )
+)
+
+SCRIPTHEROPHARMACY-PROD.ZDWSHOP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwshop01)
+  )
+)
+
+CHASEBREXTON-PROD.ZDWCHBP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwchbp01)
+  )
+)
+
+BJC-PROD.ZDWBJCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbjcp01)
+  )
+)
+
+SPARTAN-PROD.ZDWSPRP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsprp01)
+  )
+)
+
+UPSCRIPTHEALTH-PROD.ZDWUPHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwuphp01)
+  )
+)
+
+MAILMYPRESCRIPTIONS-PROD.ZDWMMPP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmmpp01)
+  )
+)
+
+GRANDRONDE-PROD.ZDWGRCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwgrcp01)
+  )
+)
+
+PRESCRIPTIONMART-PROD.ZDWPMTP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwpmtp01)
+  )
+)
+
+NIEMANNFOODS-PROD.ZDWNFDP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwnfdp01)
+  )
+)
+
+RXCROSSROADS-PROD.ZDWRXCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwrxcp01)
+  )
+)
+
+BIOLOGICS-PROD.ZDWBIOP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbiop01)
+  )
+)
+
+UPMC-PROD.ZDWUPMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwupmp01)
+  )
+)
+
+DANAFARBER-PROD.ZDWDFCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdfcp01)
+  )
+)
+
+SIMPLEHEALTH-PROD.ZDWSHIP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwship01)
+  )
+)
+
+LEMED-PROD.ZDWLEMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwlemp01)
+  )
+)
+
+CITYOFPHILADELPHIA-PROD.ZDWPHLP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwphlp01)
+  )
+)
+
+EM_AGENT=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cobra-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=em_agent)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+12CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=12cdb)
+  )
+)
+
+CLINICASV-UAT.ZDWCSVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcsvu01)
+  )
+)
+
+CHEROKEE-UAT.ZDWCNHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcnhu01)
+  )
+)
+
+PHOENIXCHILDRENS-UAT.ZDWPHXU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwphxu01)
+  )
+)
+
+UNIVPHARMACY-UAT.ZDWUNIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwuniu01)
+  )
+)
+
+AHF-UAT.ZDWAHFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwahfu01)
+  )
+)
+
+SOUTHERNOHIOMC-UAT.ZDWSOMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsomu01)
+  )
+)
+
+ADVENTISTHEALTH-UAT.ZDWAVTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwavtu01)
+  )
+)
+
+FAIRVIEW-UAT2.ZDWFRVU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwfrvu02)
+  )
+)
+
+KINNEY-UAT2.ZDWKINU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwkinu02)
+  )
+)
+
+CITYOFPHILADELPHIA-UAT.ZDWPHLU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwphlu01)
+  )
+)
+
+UPSCRIPTHEALTH-UAT2.ZDWUPHU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwuphu02)
+  )
+)
+
+INGLES-UAT2.ZDWINGU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwingu02)
+  )
+)
+
+SIMPLEHEALTH-UAT.ZDWSHIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwshiu01)
+  )
+)
+
+PHARMACYELITE-UAT.ZDWPHEU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwpheu01)
+  )
+)
+
+PHARMACYELITE-STAGE.ZDWPHES01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwphes01)
+  )
+)
+
+PHARMACYELITE-STAGE2.ZDWPHES02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwphes02)
+  )
+)
+
+CEREBRALRX-UAT.ZDWCRXU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcrxu01)
+  )
+)
+
+LEMED-UAT.ZDWLEMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwlemu01)
+  )
+)
+
+MEDMINDER-UAT.ZDWMMIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwmmiu01)
+  )
+)
+
+INDIANAUNIVERSITY-UAT.ZDWINDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwindu01)
+  )
+)
+
+CARELONRX-UAT.ZDWCRLU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcrlu01)
+  )
+)
+
+CARELONRX-UAT2.ZDWCRLU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcrlu02)
+  )
+)
+
+SJFISHERUNIVERSITY-UAT.ZDWSJFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsjfu01)
+  )
+)
+
+UNIVSOUTHERNCALIF-UAT.ZDWUSCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwuscu01)
+  )
+)
+
+ADUSASCHOOLS-UAT.ZDWADUU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwaduu01)
+  )
+)
+
+BAPTISTHEALTHSF-UAT.ZDWBAPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbapu01)
+  )
+)
+
+DWSPRP02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwsprp02)
+  )
+)
+
+AHOLD-PROD.ZDWAHDP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwahdp01)
+  )
+)
+
+STJOSEPHS-UAT.ZDWSTJU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwstju01)
+  )
+)
+
+CHILDRENSHOSPITAL-UAT.ZDWCHSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=copperhead-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwchsu01)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cuban-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cuban-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+CARELONRX-PROD.TXCRLP01-59=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cuban-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrlp01-59)
+  )
+)
+
+BAPTISTHEALTHSF-PROD.TXBAPP01-59=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cuban-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbapp01-59)
+  )
+)
+
+UNIVSOUTHERNCALIF-PROD.TXUSCP01-59=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=cuban-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuscp01-59)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+OEMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=oemu01)
+  )
+)
+
+EM_AGENT=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=em_agent)
+  )
+)
+
+ADMQ02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=admq02)
+  )
+)
+
+DEMO2.TXNDCL04=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcl04)
+  )
+)
+
+IWAYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=iwayu01)
+  )
+)
+
+EDIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=ediu01)
+  )
+)
+
+DSCAU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dscau01)
+  )
+)
+
+GOLDDB.TXGOLDDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txgolddb)
+  )
+)
+
+TXGOLDDH=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txgolddh)
+  )
+)
+
+SANDBOX01.TXNDCL06=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcl06)
+  )
+)
+
+NDC-INTR.TXNDCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcu01)
+  )
+)
+
+WEGMANS-STAGE.TXWEGS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwegs01)
+  )
+)
+
+ADUSASCHOOLS-UAT.TXADUU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txaduu01)
+  )
+)
+
+BAPTISTHEALTHSF-UAT.TXBAPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbapu01)
+  )
+)
+
+BAPTISTHEALTHSF-STAGE.TXBAPS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbaps01)
+  )
+)
+
+MEDSTARHEALTH-UAT.TXMDSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmdsu01)
+  )
+)
+
+NIEMANNFOODS-UAT.TXNFDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txnfdu01)
+  )
+)
+
+UPSCRIPTHEALTH-UAT.TXUPHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuphu01)
+  )
+)
+
+UPSCRIPTHEALTH-UAT2.TXUPHU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuphu02)
+  )
+)
+
+GRANDRONDE-UAT.TXGRCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txgrcu01)
+  )
+)
+
+CHASEBREXTON-UAT.TXCHBU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchbu01)
+  )
+)
+
+SCRIPTHEROPHARMACY-UAT.TXSHOU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txshou01)
+  )
+)
+
+SCRIPTHEROPHARMACY-UAT2.TXSHOU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txshou02)
+  )
+)
+
+HARPSFOODSTORES-UAT.TXHFSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhfsu01)
+  )
+)
+
+GENESISHEALTH-UAT.TXGENU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txgenu01)
+  )
+)
+
+CHPHEALTHSPAN-UAT.TXCHPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchpu01)
+  )
+)
+
+ATRIUSHEALTH-UAT.TXAHIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahiu01)
+  )
+)
+
+USONCOLOGY-UAT.TXUSOU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txusou01)
+  )
+)
+
+SENTARA-UAT.TXSENU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsenu01)
+  )
+)
+
+WAKEFERN-UAT.TXWKFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwkfu01)
+  )
+)
+
+MGH-UAT.TXMGHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmghu01)
+  )
+)
+
+SIMPLEHEALTH-UAT.TXSHIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txshiu01)
+  )
+)
+
+SIMPLEHEALTH-STAGE.TXSHIS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txshis01)
+  )
+)
+
+COOKCOUNTY-UAT.TXCCYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txccyu01)
+  )
+)
+
+STJOHNPHARMACIES-UAT.TXSJPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsjpu01)
+  )
+)
+
+STJOHNPHARMACIES-UAT2.TXSJPU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsjpu02)
+  )
+)
+
+TOPS-UAT.TXTOPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txtopu01)
+  )
+)
+
+COVENANT-UAT.TXCOVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcovu01)
+  )
+)
+
+INGLES-UAT.TXINGU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txingu01)
+  )
+)
+
+INGLES-UAT2.TXINGU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txingu02)
+  )
+)
+
+KVAT-UAT.TXKVTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txkvtu01)
+  )
+)
+
+TXDHMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmu01)
+  )
+)
+
+ISMC04-UAT.TXDHMU04=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmu04)
+  )
+)
+
+ISMC05-UAT.TXDHMU05=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmu05)
+  )
+)
+
+ISMC06-UAT.TXDHMU06=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmu06)
+  )
+)
+
+ISMC08-UAT.TXDHMU08=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmu08)
+  )
+)
+
+ISMC09-UAT.TXDHMU09=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmu09)
+  )
+)
+
+HOMELAND-UAT.TXHACU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhacu01)
+  )
+)
+
+MCLAREN-UAT.TXMCLU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmclu01)
+  )
+)
+
+FAIRVIEW-UAT.TXFRVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfrvu01)
+  )
+)
+
+FAIRVIEW-UAT2.TXFRVU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfrvu02)
+  )
+)
+
+RXCROSSROADS-UAT.TXRXCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrxcu01)
+  )
+)
+
+TXRXCU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrxcu02)
+  )
+)
+
+RXCROSSROADS-STAGE2.TXRXCS02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrxcs02)
+  )
+)
+
+DEMO.TXNDCL02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcl02)
+  )
+)
+
+PHARMACYELITE-UAT.TXPHEU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txpheu01)
+  )
+)
+
+PHARMACYELITE-STAGE.TXPHES01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphes01)
+  )
+)
+
+PHARMACYELITE-STAGE2.TXPHES02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphes02)
+  )
+)
+
+STJOSEPHS-UAT.TXSTJU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txstju01)
+  )
+)
+
+PGHDEMO-TRNG.TXPDPL01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txpdpl01)
+  )
+)
+
+WEGMANS-STAGE2.TXWEGS02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwegs02)
+  )
+)
+
+AHOLD-TEST.TXAHDT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahdt01)
+  )
+)
+
+HEALTHFIRST-UAT.TXHFFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhffu01)
+  )
+)
+
+FLETCHERALLEN-UAT.TXFLAU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txflau01)
+  )
+)
+
+YAKIMAVALLEY-UAT.TXYKVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txykvu01)
+  )
+)
+
+BRYNMAWRHOSPITAL-UAT.TXBMHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbmhu01)
+  )
+)
+
+CHRISTIANACARE-UAT.TXCCHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcchu01)
+  )
+)
+
+HARMONS-UAT.TXHRMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhrmu01)
+  )
+)
+
+MOUNTAINSTATES-UAT.TXMSHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmshu01)
+  )
+)
+
+RALEYS-UAT.TXRLYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrlyu01)
+  )
+)
+
+HCDPALMBEACH-UAT.TXHCDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhcdu01)
+  )
+)
+
+NMC-UAT.TXNMCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txnmcu01)
+  )
+)
+
+CHPHEALTHSPAN-STAGE.TXCHPS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchps01)
+  )
+)
+
+BROOKSHIRE-UAT.TXBRKU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbrku01)
+  )
+)
+
+BROOKSHIRE-UAT2.TXBRKU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbrku02)
+  )
+)
+
+PRC-UAT.TXPRCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txprcu01)
+  )
+)
+
+KINNEY-UAT.TXKINU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txkinu01)
+  )
+)
+
+KINNEY-UAT2.TXKINU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txkinu02)
+  )
+)
+
+TXKINU03=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txkinu03)
+  )
+)
+
+TXNDCT28=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=diana-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndct28)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+ADMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=admp01)
+  )
+)
+
+OEMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=oemp01)
+  )
+)
+
+TXCTMP02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txctmp02)
+  )
+)
+
+CCONFP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=cconfp01)
+  )
+)
+
+IWAYP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=iwayp01)
+  )
+)
+
+EDIP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=edip01)
+  )
+)
+
+DSCAP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dscap01)
+  )
+)
+
+SPACEDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=spacedb)
+  )
+)
+
+TXAHDR01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=guntur-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahdr01)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+HOMELAND-PROD.TXHACP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhacp01-64)
+  )
+)
+
+FOODCITY-PROD.TXFDCP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfdcp01-64)
+  )
+)
+
+MARSHFIELD-PROD.TXMFDP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmfdp01-64)
+  )
+)
+
+BJC-PROD.TXBJCP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbjcp01-64)
+  )
+)
+
+BIGY-PROD.TXBGYP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbgyp01-64)
+  )
+)
+
+PRC-PROD.TXPRCP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txprcp01-64)
+  )
+)
+
+DANAFARBER-PROD.TXDFCP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdfcp01-64)
+  )
+)
+
+DARTMOUTH-PROD.TXDRTP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdrtp01-64)
+  )
+)
+
+COVENANT-PROD.TXCOVP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcovp01-64)
+  )
+)
+
+MGH-PROD.TXMGHP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmghp01-64)
+  )
+)
+
+BEAUMONT-PROD.TXBMTP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbmtp01-64)
+  )
+)
+
+BROOKSHIRE-PROD.TXBRKP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbrkp01-64)
+  )
+)
+
+TOPS-PROD.TXTOPP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txtopp01-64)
+  )
+)
+
+BIMART-PROD.TXBIMP01-64=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=habanero-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbimp01-64)
+  )
+)
+
++ASM1=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=+ASM1)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+SCRIPTHEROPHARMACY-PROD.TXSHOP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txshop01-65)
+  )
+)
+
+UALABAMA-PROD.TXUABP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuabp01-65)
+  )
+)
+
+HCDPALMBEACH-PROD.TXHCDP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhcdp01-65)
+  )
+)
+
+HARTIGDRUG-PROD.TXHGDP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhgdp01-65)
+  )
+)
+
+CHASEBREXTON-PROD.TXCHBP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchbp01-65)
+  )
+)
+
+FLORIDAHEALTHCARE-PROD.TXFHCP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfhcp01-65)
+  )
+)
+
+MUSCOGEE-PROD.TXMUSP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmusp01-65)
+  )
+)
+
+MOUNTAINSTATES-PROD.TXMSHP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmshp01-65)
+  )
+)
+
+HARPSFOODSTORES-PROD.TXHFSP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhfsp01-65)
+  )
+)
+
+GENESISHEALTH-PROD.TXGENP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txgenp01-65)
+  )
+)
+
+EASTERNMAINE-PROD.TXEMHP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txemhp01-65)
+  )
+)
+
+MEDSTARHEALTH-PROD.TXMDSP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmdsp01-65)
+  )
+)
+
+HIMS-PROD.TXHIMP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhimp01-65)
+  )
+)
+
+EASYSCRIPTS-PROD.TXEZSP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txezsp01-65)
+  )
+)
+
+GRANDRONDE-PROD.TXGRCP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txgrcp01-65)
+  )
+)
+
+SENTARA-PROD.TXSENP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsenp01-65)
+  )
+)
+
+PRESCRIPTIONMART-PROD.TXPMTP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txpmtp01-65)
+  )
+)
+
+SIMPLEHEALTH-PROD.TXSHIP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txship01-65)
+  )
+)
+
+CEREBRALRX-PROD.TXCRXP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrxp01-65)
+  )
+)
+
+ATRIUSHEALTH-PROD.TXAHIP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahip01-65)
+  )
+)
+
+LEMED-PROD.TXLEMP01-65=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=hungarian-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txlemp01-65)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+ASSOCIATEDFOOD-PROD.TXAFSP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txafsp01-66)
+  )
+)
+
+GEISINGER-PROD.TXGHSP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txghsp01-66)
+  )
+)
+
+CHRISTIANACARE-PROD.TXCCHP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcchp01-66)
+  )
+)
+
+REGIONALONEHEALTH-PROD.TXROHP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrohp01-66)
+  )
+)
+
+BROOKSHIREBROTHERS-PROD.TXBBSP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbbsp01-66)
+  )
+)
+
+UPMC-PROD.TXUPMP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txupmp01-66)
+  )
+)
+
+CHRISTUSSPOHN-PROD.TXCSHP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcshp01-66)
+  )
+)
+
+HARMONS-PROD.TXHRMP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhrmp01-66)
+  )
+)
+
+LLUHEALTH-PROD.TXLLUP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txllup01-66)
+  )
+)
+
+NIEMANNFOODS-PROD.TXNFDP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txnfdp01-66)
+  )
+)
+
+RXCROSSROADS-PROD.TXRXCP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrxcp01-66)
+  )
+)
+
+BIOLOGICS-PROD.TXBIOP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbiop01-66)
+  )
+)
+
+RALEYS-PROD.TXRLYP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrlyp01-66)
+  )
+)
+
+STVINCENTHEALTH-PROD.TXSVHP01-66=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=jalapeno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsvhp01-66)
+  )
+)
+
+PERFGATE=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=perfgate)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+INTERNAL-TRNG.TXINTT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txintt01)
+  )
+)
+
+PREQA1.TXNDCT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndct01)
+  )
+)
+
+DEMO3.TXNDCL05=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcl05)
+  )
+)
+
+NDC-INTR2.TXNDCU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcu02)
+  )
+)
+
+NDC-QAAUTO1.TXNDCQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq01)
+  )
+)
+
+NDC-QAAUTO2.TXNDCQ02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq02)
+  )
+)
+
+PREQA1.TXNDCQ03=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq03)
+  )
+)
+
+QA_FUNC.TXNDCQ04=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq04)
+  )
+)
+
+QA-DATAHIDING.TXNDCQ06=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq06)
+  )
+)
+
+QA11.TXNDCQ11=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq11)
+  )
+)
+
+QA13.TXNDCQ13=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq13)
+  )
+)
+
+QA16.TXNDCQ16=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq16)
+  )
+)
+
+QA17.TXNDCQ17=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq17)
+  )
+)
+
+QA18.TXNDCQ18=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq18)
+  )
+)
+
+QA19.TXNDCQ19=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq19)
+  )
+)
+
+QA20.TXNDCQ20=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq20)
+  )
+)
+
+QA22.TXNDCQ22=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq22)
+  )
+)
+
+QA23.TXNDCQ23=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq23)
+  )
+)
+
+QA25.TXNDCQ25=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq25)
+  )
+)
+
+QA40.TXNDCQ40=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq40)
+  )
+)
+
+QA28.TXNDCQ28=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq28)
+  )
+)
+
+QA31.TXNDCQ31=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq31)
+  )
+)
+
+QA33.TXNDCQ33=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq33)
+  )
+)
+
+QA37.TXNDCQ37=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq37)
+  )
+)
+
+QA47.TXNDCQ47=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq47)
+  )
+)
+
+QA48.TXNDCQ48=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq48)
+  )
+)
+
+QA52.TXNDCQ52=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq52)
+  )
+)
+
+QA53.TXNDCQ53=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq53)
+  )
+)
+
+QA54.TXNDCQ54=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq54)
+  )
+)
+
+QA55.TXNDCQ55=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq55)
+  )
+)
+
+QA56.TXNDCQ56=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq56)
+  )
+)
+
+PREQA3.TXNDCT03=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=juno-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndct03)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+FLETCHERALLEN-PROD.TXFLAP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txflap01-67)
+  )
+)
+
+KINNEY-PROD.TXKINP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txkinp01-67)
+  )
+)
+
+WELLSTAR-PROD.TXWELP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwelp01-67)
+  )
+)
+
+MARCGLASSMAN-PROD.TXMGMP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmgmp01-67)
+  )
+)
+
+MSK-PROD.TXMSKP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmskp01-67)
+  )
+)
+
+HENRYFORD-PROD.TXHNFP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhnfp01-67)
+  )
+)
+
+BAYLOR-PROD.TXBAYP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbayp01-67)
+  )
+)
+
+PRICECUTTER-PROD.TXPCTP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txpctp01-67)
+  )
+)
+
+COBORNS-PROD.TXCOBP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcobp01-67)
+  )
+)
+
+VANDERBILT-PROD.TXVNDP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txvndp01-67)
+  )
+)
+
+COOKCOUNTY-PROD.TXCCYP01-67=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=marbles-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txccyp01-67)
+  )
+)
+
+EM_AGENT=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=em_agent)
+  )
+)
+
+CMDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=cmdb)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+ADMQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=admq01)
+  )
+)
+
+CCONFQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=cconfq01)
+  )
+)
+
+CCONFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=cconfu01)
+  )
+)
+
+DSCAQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dscaq01)
+  )
+)
+
+IWAYQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=iwayq01)
+  )
+)
+
+EDIQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=ediq01)
+  )
+)
+
+TXCTMU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txctmu02)
+  )
+)
+
+TXHNFT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhnft01)
+  )
+)
+
+ARAQA1.TXARAQ01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txaraq01)
+  )
+)
+
+NDC-STAGE.TXNDCS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcs01)
+  )
+)
+
+QA-SP4.TXQASP4=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txqasp4)
+  )
+)
+
+QA-MEDISPAN.TXNDCQ07=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq07)
+  )
+)
+
+QA09.TXNDCQ09=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq09)
+  )
+)
+
+QA12.TXNDCQ12=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq12)
+  )
+)
+
+QA-MAIL.TXNDCQ05=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq05)
+  )
+)
+
+QA14.TXNDCQ14=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq14)
+  )
+)
+
+QA15.TXNDCQ15=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq15)
+  )
+)
+
+QA21.TXNDCQ21=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq21)
+  )
+)
+
+QA24.TXNDCQ24=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq24)
+  )
+)
+
+QA27.TXNDCQ27=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq27)
+  )
+)
+
+QA29.TXNDCQ29=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq29)
+  )
+)
+
+QA30.TXNDCQ30=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq30)
+  )
+)
+
+TXNDCQ3C=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq3c)
+  )
+)
+
+QA32.TXNDCQ32=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq32)
+  )
+)
+
+QA34.TXNDCQ34=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq34)
+  )
+)
+
+QA35.TXNDCQ35=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq35)
+  )
+)
+
+QA36.TXNDCQ36=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq36)
+  )
+)
+
+QA38.TXNDCQ38=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq38)
+  )
+)
+
+QA39.TXNDCQ39=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq39)
+  )
+)
+
+QA45.TXNDCQ45=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq45)
+  )
+)
+
+QA46.TXNDCQ46=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq46)
+  )
+)
+
+QA49.TXNDCQ49=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq49)
+  )
+)
+
+QA50.TXNDCQ50=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq50)
+  )
+)
+
+QA51.TXNDCQ51=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq51)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=neptune-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+ISMC08-PROD.TXDHMP08-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp08-68)
+  )
+)
+
+ISMC06-PROD.TXDHMP06-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp06-68)
+  )
+)
+
+ISMC04-PROD.TXDHMP04-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp04-68)
+  )
+)
+
+ISMC09-PROD.TXDHMP09-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp09-68)
+  )
+)
+
+USONCOLOGY-PROD.TXUSOP01-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txusop01-68)
+  )
+)
+
+NMC-PROD.TXNMCP01-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txnmcp01-68)
+  )
+)
+
+TXDHMP01-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp01-68)
+  )
+)
+
+ISMC05-PROD.TXDHMP05-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdhmp05-68)
+  )
+)
+
+WAKEFERN-PROD.TXWKFP01-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwkfp01-68)
+  )
+)
+
+CARELONRX-PROD.TXCRLP01-68=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pascilla-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrlp01-68)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+FAIRVIEW-PROD.TXFRVP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfrvp01-70)
+  )
+)
+
+MAYOCLINIC-PROD.TXMYOP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmyop01-70)
+  )
+)
+
+WEGMANS-PROD.TXWEGP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwegp01-70)
+  )
+)
+
+YALE-PROD.TXYLEP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txylep01-70)
+  )
+)
+
+ADVENTISTHEALTH-PROD.TXAVTP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txavtp01-70)
+  )
+)
+
+SOUTHERNOHIOMC-PROD.TXSOMP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsomp01-70)
+  )
+)
+
+AHF-PROD.TXAHFP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahfp01-70)
+  )
+)
+
+STJOSEPHS-PROD.TXSTJP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txstjp01-70)
+  )
+)
+
+PHOENIXCHILDRENS-PROD.TXPHXP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphxp01-70)
+  )
+)
+
+CLINICASV-PROD.TXCSVP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcsvp01-70)
+  )
+)
+
+CHEROKEE-PROD.TXCNHP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcnhp01-70)
+  )
+)
+
+UNIVPHARMACY-PROD.TXUNIP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txunip01-70)
+  )
+)
+
+CHILDRENSHOSPITAL-PROD.TXCHSP01-70=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pimento-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchsp01-70)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+EM_AGENT=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=em_agent)
+  )
+)
+
+UPMC-UAT.TXUPMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txupmu01)
+  )
+)
+
+SPARTAN-UAT.TXSPRU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txspru01)
+  )
+)
+
+PRESCRIPTIONMART-UAT.TXPMTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txpmtu01)
+  )
+)
+
+MAILMYPRESCRIPTIONS-UAT.TXMMPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmmpu01)
+  )
+)
+
+EASYSCRIPTS-UAT.TXEZSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txezsu01)
+  )
+)
+
+MGH-STAGE.TXMGHS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmghs01)
+  )
+)
+
+TXMGHU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmghu02)
+  )
+)
+
+UT.TXNDCL01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcl01)
+  )
+)
+
+ASSOCIATEDFOOD-UAT.TXAFSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txafsu01)
+  )
+)
+
+ADMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=admu01)
+  )
+)
+
+ISMC-TRNG.TXNDCT32=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndct32)
+  )
+)
+
+BIGY-UAT.TXBGYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbgyu01)
+  )
+)
+
+LLUHEALTH-UAT.TXLLUU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txlluu01)
+  )
+)
+
+BROOKSHIREBROTHERS-UAT.TXBBSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbbsu01)
+  )
+)
+
+GEISINGER-UAT.TXGHSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txghsu01)
+  )
+)
+
+BEAUMONTS-UAT.TXBMTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbmtu01)
+  )
+)
+
+YALE-UAT.TXYLEU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txyleu01)
+  )
+)
+
+MAYOCLINIC-UAT.TXMYOU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmyou01)
+  )
+)
+
+MAYOCLINIC-STAGE.TXMYOS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmyos01)
+  )
+)
+
+FAIRVIEW-STAGE.TXFRVS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfrvs01)
+  )
+)
+
+HYVEE-UAT.TXHYVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhyvu01)
+  )
+)
+
+HYVEE-STAGE.TXHYVS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhyvs01)
+  )
+)
+
+AVERA-UAT.TXAVRU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txavru01)
+  )
+)
+
+BAYLOR-UAT.TXBAYU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbayu01)
+  )
+)
+
+MSK-UAT.TXMSKU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmsku01)
+  )
+)
+
+BIMART-UAT.TXBIMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbimu01)
+  )
+)
+
+SHANDS-UAT.TXSNDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsndu01)
+  )
+)
+
+WELLSTAR-UAT.TXWELU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwelu01)
+  )
+)
+
+PRICECUTTER-UAT.TXPCTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txpctu01)
+  )
+)
+
+HENRYFORD-UAT.TXHNFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhnfu01)
+  )
+)
+
+COBORNS-UAT.TXCOBU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcobu01)
+  )
+)
+
+FROEDTERT-UAT.TXFROU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfrou01)
+  )
+)
+
+EASTERNMAINE-UAT.TXEMHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txemhu01)
+  )
+)
+
+MARCGLASSMAN-UAT.TXMGMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmgmu01)
+  )
+)
+
+APPALACHIAN-UAT.TXARHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txarhu01)
+  )
+)
+
+AHOLD-UAT.TXAHDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahdu01)
+  )
+)
+
+AHOLD-STAGE.TXAHDS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahds01)
+  )
+)
+
+AHOLD-STAGE2.TXAHDS02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahds02)
+  )
+)
+
+WEGMANS-UAT.TXWEGU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwegu01)
+  )
+)
+
+TXWEGC01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwegc01)
+  )
+)
+
+TXWEGT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txwegt01)
+  )
+)
+
+REGIONALONEHEALTH-UAT.TXROHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrohu01)
+  )
+)
+
+IWAYS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=iways01)
+  )
+)
+
+BANNERHEALTH-UAT.TXBAHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbahu01)
+  )
+)
+
+VANDERBILT-UAT.TXVNDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txvndu01)
+  )
+)
+
+HARTIGDRUG-UAT.TXHGDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhgdu01)
+  )
+)
+
+BJC-UAT.TXBJCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbjcu01)
+  )
+)
+
+RXNDCPRD=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=rxndcprd)
+  )
+)
+
+JOHNSHOPKINS-UAT.TXJHPU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txjhpu01)
+  )
+)
+
+DARTMOUTH-UAT.TXDRTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdrtu01)
+  )
+)
+
+MARSHFIELD-UAT.TXMFDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmfdu01)
+  )
+)
+
+KELSEYSEBOLD-UAT.TXKLSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txklsu01)
+  )
+)
+
+INTERMOUNTAIN-UAT.TXIMTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=tximtu01)
+  )
+)
+
+CHRISTUSSPOHN-UAT.TXCSHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcshu01)
+  )
+)
+
+UALABAMA-UAT.TXUABU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuabu01)
+  )
+)
+
+FLORIDAHEALTHCARE-UAT.TXFHCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfhcu01)
+  )
+)
+
+MUSCOGEE-UAT.TXMUSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmusu01)
+  )
+)
+
+RXCROSSROADS-STAGE.TXRXCS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrxcs01)
+  )
+)
+
+BIOLOGICS-STAGE.TXBIOS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbios01)
+  )
+)
+
+BIOLOGICS-STAGE2.TXBIOS02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbios02)
+  )
+)
+
+BIOLOGICS-UAT.TXBIOU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbiou01)
+  )
+)
+
+DANAFARBER-UAT.TXDFCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txdfcu01)
+  )
+)
+
+TXNDCQ61=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txndcq61)
+  )
+)
+
+HIMS-UAT.TXHIMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhimu01)
+  )
+)
+
+CITYOFPHILADELPHIA-UAT.TXPHLU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphlu01)
+  )
+)
+
+CITYOFPHILADELPHIA-STAGE.TXPHLS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphls01)
+  )
+)
+
+CEREBRALRX-UAT.TXCRXU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrxu01)
+  )
+)
+
+LEMED-UAT.TXLEMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txlemu01)
+  )
+)
+
+LEMED-STAGE.TXLEMS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txlems01)
+  )
+)
+
+MEDMINDER-UAT.TXMMIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmmiu01)
+  )
+)
+
+MEDMINDER-STAGE.TXMMIS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmmis01)
+  )
+)
+
+TXSPRP02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsprp02)
+  )
+)
+
+INDIANAUNIVERSITY-UAT.TXINDU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txindu01)
+  )
+)
+
+INDIANAUNIVERSITY-STAGE.TXINDS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txinds01)
+  )
+)
+
+SJFISHERUNIVERSITY-UAT.TXSJFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsjfu01)
+  )
+)
+
+CARELONRX-UAT.TXCRLU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrlu01)
+  )
+)
+
+CARELONRX-UAT2.TXCRLU02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrlu02)
+  )
+)
+
+CARELONRX-STAGE.TXCRLS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrls01)
+  )
+)
+
+CARELONRX-STAGE2.TXCRLS02=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcrls02)
+  )
+)
+
+FOODCITY-STAGE.TXFDCS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txfdcs01)
+  )
+)
+
+UNIVSOUTHERNCALIF-UAT.TXUSCU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuscu01)
+  )
+)
+
+UNIVSOUTHERNCALIF-STAGE.TXUSCS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuscs01)
+  )
+)
+
+ADVENTISTHEALTH-UAT.TXAVTU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txavtu01)
+  )
+)
+
+ADVENTISTHEALTH-STAGE.TXAVTS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txavts01)
+  )
+)
+
+SOUTHERNOHIOMC-UAT.TXSOMU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsomu01)
+  )
+)
+
+SOUTHERNOHIOMC-STAGE.TXSOMS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsoms01)
+  )
+)
+
+PHOENIXCHILDRENS-UAT.TXPHXU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphxu01)
+  )
+)
+
+PHOENIXCHILDRENS-STAGE.TXPHXS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphxs01)
+  )
+)
+
+AHF-STAGE.TXAHFS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahfs01)
+  )
+)
+
+AHF-UAT.TXAHFU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txahfu01)
+  )
+)
+
+UNIVPHARMACY-STAGE.TXUNIS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txunis01)
+  )
+)
+
+UNIVPHARMACY-UAT.TXUNIU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuniu01)
+  )
+)
+
+CHEROKEE-STAGE.TXCNHS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcnhs01)
+  )
+)
+
+CHEROKEE-UAT.TXCNHU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcnhu01)
+  )
+)
+
+CLINICASV-UAT.TXCSVU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcsvu01)
+  )
+)
+
+CLINICASV-STAGE.TXCSVS01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txcsvs01)
+  )
+)
+
+CHILDRENSHOSPITAL-UAT.TXCHSU01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchsu01)
+  )
+)
+
+TXRECT01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=pluto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txrect01)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+-MGMTDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=-MGMTDB)
+  )
+)
+
+INTERMOUNTAIN-PROD.TXIMTP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=tximtp01-69)
+  )
+)
+
+SPARTAN-PROD.TXSPRP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsprp01-69)
+  )
+)
+
+INGLES-PROD.TXINGP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txingp01-69)
+  )
+)
+
+AVERA-PROD.TXAVRP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txavrp01-69)
+  )
+)
+
+MCLAREN-PROD.TXMCLP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmclp01-69)
+  )
+)
+
+UPSCRIPTHEALTH-PROD.TXUPHP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txuphp01-69)
+  )
+)
+
+CHPHEALTHSPAN-PROD.TXCHPP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txchpp01-69)
+  )
+)
+
+APPALACHIAN-PROD.TXARHP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txarhp01-69)
+  )
+)
+
+JOHNSHOPKINS-PROD.TXJHPP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txjhpp01-69)
+  )
+)
+
+HEALTHFIRST-PROD.TXHFFP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhffp01-69)
+  )
+)
+
+KELSEYSEYBOLD-PROD.TXKLSP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txklsp01-69)
+  )
+)
+
+MAILMYPRESCRIPTIONS-PROD.TXMMPP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmmpp01-69)
+  )
+)
+
+BANNERHEALTH-PROD.TXBAHP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txbahp01-69)
+  )
+)
+
+YAKIMAVALLEY-PROD.TXYKVP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txykvp01-69)
+  )
+)
+
+STJOHNPHARMACIES-PROD.TXSJPP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txsjpp01-69)
+  )
+)
+
+CITYOFPHILADELPHIA-PROD.TXPHLP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txphlp01-69)
+  )
+)
+
+MEDMINDER-PROD.TXMMIP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txmmip01-69)
+  )
+)
+
+INDIANAUNIVERSITY-PROD.TXINDP01-69=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=poblano-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txindp01-69)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+DWDHMP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmp01)
+  )
+)
+
+ISMC04-PROD.ZDWDHMP04=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmp04)
+  )
+)
+
+ISMC05-PROD.ZDWDHMP05=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmp05)
+  )
+)
+
+ISMC06-PROD.ZDWDHMP06=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmp06)
+  )
+)
+
+ISMC08-PROD.ZDWDHMP08=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmp08)
+  )
+)
+
+ISMC09-PROD.ZDWDHMP09=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwdhmp09)
+  )
+)
+
+USONCOLOGY-PROD.ZDWUSOP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwusop01)
+  )
+)
+
+AHOLD-PROD.ZDWAHDP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwahdp01)
+  )
+)
+
+COVENANT-PROD.ZDWCOVP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcovp01)
+  )
+)
+
+CARELONRX-PROD.ZDWCRLP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcrlp01)
+  )
+)
+
+BAPTISTHEALTHSF-PROD.ZDWBAPP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwbapp01)
+  )
+)
+
+UNIVSOUTHERNCALIF-PROD.ZDWUSCP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwuscp01)
+  )
+)
+
+CHEROKEE-PROD.ZDWCNHP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcnhp01)
+  )
+)
+
+CLINICASV-PROD.ZDWCSVP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwcsvp01)
+  )
+)
+
+UNIVPHARMACY-PROD.ZDWUNIP01=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=dwunip01)
+  )
+)
+
+EM_AGENT=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=python-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=em_agent)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=rocoto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+JOHNSHOPKINS-PROD.TXJHPP01-71=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=rocoto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txjhpp01-71)
+  )
+)
+
+HYVEE-PROD.TXHYVP01-71=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=rocoto-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhyvp01-71)
+  )
+)
+
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=sannam-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=19cdb)
+  )
+)
+
+JOHNSHOPKINS-PROD.TXJHPP01-72=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=sannam-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txjhpp01-72)
+  )
+)
+
+HYVEE-PROD.TXHYVP01-72=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=sannam-admin.enterpriserx.ndchealth.com)
+    (PORT=1537)
+  )
+  (CONNECT_DATA=
+    (SERVER=default)
+    (SID=txhyvp01-72)
+  )
+)

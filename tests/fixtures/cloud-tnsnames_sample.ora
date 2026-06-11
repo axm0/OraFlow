@@ -1,0 +1,14 @@
+# Sample/scrubbed CLOUD test fixture. Filename contains "cloud" so
+# parse_tnsnames() / _source_tag_for() tag every entry as source_tag="cloud".
+txndcd46 =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = pxndcd46.example.com)(PORT = 1521))
+    (CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = pxndcd46.example.com))
+  )
+
+txndcq46 =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = pxndcq46.example.com)(PORT = 1521))
+    (CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = pxndcq46.example.com))
+  )
+

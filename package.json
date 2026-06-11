@@ -1,0 +1,14 @@
+{
+  "name": "oraflow",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "uv sync",
+    "mcp": "uv run oraflow-mcp",
+    "dev:mcp": "uv run mcp dev src/oraflow/server.py",
+    "tns": "uv run oraflow tns info",
+    "test": "uv run pytest",
+    "lint": "uv run ruff check .",
+    "check": "uv run ruff check . && uv run pytest"
+  }
+}

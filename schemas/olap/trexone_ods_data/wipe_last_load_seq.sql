@@ -1,0 +1,13 @@
+-- ==========================================
+
+  CREATE TABLE "TREXONE_ODS_DATA"."WIPE_LAST_LOAD_SEQ"
+   (	"TABLE_NAME" VARCHAR2(100) NOT NULL ENABLE,
+	"MIN_SEQ" NUMBER,
+	"CURR_SEQ" NUMBER,
+	"MAX_SEQ" NUMBER,
+	"STATUS" CHAR(1),
+	"SCHEMA_NAME" VARCHAR2(30),
+	 CONSTRAINT "PK_WIPE_LAST_LOAD_SEQ" PRIMARY KEY ("TABLE_NAME", "SCHEMA_NAME")
+  USING INDEX  ENABLE
+   ) ;
+-- ==========================================

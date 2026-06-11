@@ -1,0 +1,31 @@
+{
+  "name": "oraflow",
+  "displayName": "OraFlow",
+  "description": "Internal read-only Oracle/TNS and JiraFlow MCP tools for EnterpriseRx Copilot workflows. Authored by Abdul Aziz Mohammed (EnterpriseRx).",
+  "version": "0.1.6",
+  "publisher": "enterpriserx",
+  "author": { "name": "Abdul Aziz Mohammed" },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "private": true,
+  "engines": { "vscode": ">=1.90.0" },
+  "activationEvents": ["onStartupFinished"],
+  "categories": ["Other"],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      { "command": "oraflow.setupCredentials", "title": "OraFlow: Setup Credentials" },
+      { "command": "oraflow.setupJiraCredentials", "title": "OraFlow: Setup Jira Credentials" },
+      { "command": "oraflow.configureMcp", "title": "OraFlow: Configure MCP for Workspace" },
+      { "command": "oraflow.showBackendPath", "title": "OraFlow: Show Bundled Backend Path" }
+    ]
+  },
+  "scripts": {
+    "build": "esbuild extension.js --bundle --minify --platform=node --target=node18 --external:vscode --outfile=dist/extension.js --legal-comments=none",
+    "package": "npm run build && vsce package --no-dependencies --allow-missing-repository",
+    "vscode:uninstall": "node ./uninstall.js"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "3.9.1",
+    "esbuild": "0.28.0"
+  }
+}

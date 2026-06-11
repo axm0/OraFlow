@@ -1,0 +1,11 @@
+-- ==========================================
+
+  CREATE TABLE "TREXONE_DW_DATA"."RD_DATE_INTERVAL"
+   (	"DATE_INTERVAL_ID" NUMBER(18,0),
+	"DATE_INTERVAL_NAME" VARCHAR2(30),
+	"DATE_INTERVAL_DESC" VARCHAR2(100),
+	"STATUS_FLAG" CHAR(1),
+	 CONSTRAINT "PK_RD_DATE_INTERVAL" PRIMARY KEY ("DATE_INTERVAL_ID")
+  USING INDEX  ENABLE
+   ) ;
+-- ==========================================

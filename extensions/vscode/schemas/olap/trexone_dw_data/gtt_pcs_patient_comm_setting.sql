@@ -1,0 +1,10 @@
+-- ==========================================
+
+  CREATE GLOBAL TEMPORARY TABLE "TREXONE_DW_DATA"."GTT_PCS_PATIENT_COMM_SETTING"
+   (	"PATIENT_KEY" NUMBER(18,0),
+	"PHONE_NUMBER" VARCHAR2(100),
+	"EMAIL_ADDRESS" VARCHAR2(100),
+	"TEXT_MESSAGE" VARCHAR2(100),
+	"ERX_CLIENT_ID" VARCHAR2(100)
+   ) ON COMMIT DELETE ROWS ;
+-- ==========================================

@@ -1,0 +1,21 @@
+Historical original development-machine snapshot only.
+OraFlow no longer requires or checks these machine-level Oracle paths; the VS Code extension uses bundled Oracle runtime/TNS files.
+
+User variables
+TNS_ADMIN = <old local Oracle network admin path>
+
+System variables
+JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot
+JAVA5_HOME = C:\Program Files\Eclipse Adoptium\jdk-8.0.482.8-hotspot\bin
+ORACLE_HOME = <old local Oracle home path>
+TNS_ADMIN = <old local Oracle network admin path>
+ERX_SERVER_JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot
+ANT_HOME C:\Developer\SDKs\apache-ant-1.10.15
+GRADLE_HOME = C:\Gradle\gradle-9.3.1
+
+Path:
+%ORACLE_HOME%\bin
+%JAVA_HOME%\bin
+%ANT_HOME%\bin
+%GRADLE_HOME%\bin
+%JAVA5_HOME%\bin

@@ -1,0 +1,16 @@
+OraFlow VS Code Extension
+Authored by Abdul Aziz Mohammed (EnterpriseRx).
+This is internal company work for EnterpriseRx / McKesson. The bundled MCP
+server backend (oraflow-mcp), the embedded Oracle TNS catalog, the schema /
+DDL catalog, the credential resolution flow, the read-only SQL safety
+validator, and the script-first MCP workflow were designed and implemented
+by Abdul Aziz Mohammed.
+Please retain author attribution if redistributed within the company.
+Bundled third-party components (Oracle Instant Client, FastMCP,
+python-oracledb, sqlglot, and other open-source dependencies) remain
+governed by their respective licenses; see the BASIC_LICENSE file inside
+the bundled Oracle Instant Client directory and the upstream projects for
+their terms.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.

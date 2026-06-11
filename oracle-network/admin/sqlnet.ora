@@ -1,0 +1,6 @@
+# OraFlow default sqlnet.ora for bundled Instant Client 23.6.
+# Keep this clean for python-oracledb thick mode. Legacy PROD databases that
+# reject IC23 auth automatically fall back to the bundled SQL*Plus 12.2 runtime.
+NAMES.DIRECTORY_PATH=(TNSNAMES, EZCONNECT)
+SQLNET.EXPIRE_TIME=0
+SQLNET.ALLOWED_LOGON_VERSION_CLIENT=8

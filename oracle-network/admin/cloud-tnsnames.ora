@@ -1,0 +1,2348 @@
+19CDB=
+(DESCRIPTION=
+  (ADDRESS=
+    (PROTOCOL=TCP)
+    (HOST=10.169.154.232)
+    (PORT=1521)
+  )
+  (CONNECT_DATA=
+    (SERVER=DEDICATED)
+    (SERVICE_NAME=PXNDCD47.OCISUBNETORAEX.OCIVNETEASTUSM.ORACLEVCN.COM)
+  )
+)
+
+txndct04=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=oradeverx1.east.erx.rxservices.mckesson.com)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=oradeverx2.east.erx.rxservices.mckesson.com)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=oradeverx3.east.erx.rxservices.mckesson.com)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCT04.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txpdpl01=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXPDPL01.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq16=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ16.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq09=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ09.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq50=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ50.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq51=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ51.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq14=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ14.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcu01=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCU01.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndct03=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCT03.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq30=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ30.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq07=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ07.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq47=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ47.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq37=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ37.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq45=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ45.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq40=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ40.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq52=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ52.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq19=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ19.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq12=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ12.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq18=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ18.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq31=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ31.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq35=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ35.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq38=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ38.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq06=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ06.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq11=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ11.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq49=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ49.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq02=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ02.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq03=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ03.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq04=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ04.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txqasp4=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXQASP4.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq56=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ56.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq22=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ22.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq33=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ33.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq48=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ48.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq54=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ54.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq13=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ13.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq15=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ15.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq55=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ55.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq46=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ46.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq21=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ21.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndct01=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCT01.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq17=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ17.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq39=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ39.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq27=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ27.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq53=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ53.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+dwndcd40=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PWNDCD40.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq29=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ29.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq28=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ28.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq24=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ24.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq01=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ01.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd48=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD48.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd02=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD02.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd12=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD12.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd17=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD17.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd01=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD01.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd19=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD19.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd41=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD41.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd45=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD45.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd49=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD49.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd58=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD58.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd60=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD60.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd52=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD52.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd53=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD53.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd54=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD54.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd35=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD35.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd55=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD55.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd40=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD40.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd43=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD43.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd51=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD51.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd16=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD16.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+dwndcq47=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PWNDCQ47.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+dwndcq14=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PWNDCQ14.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+dwndcq11=
+(DESCRIPTION=
+  (ADDRESS=
+    (PORT=1521)
+    (HOST=10.169.154.220)
+    (PROTOCOL=TCP)
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PWNDCQ11.OCISUBNETORAEX.OCIVNETEASTUSM.ORACLEVCN.COM)
+  )
+)
+
+dwndcd16=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PWNDCD16.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd18=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD18.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd20=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD20.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd27=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD27.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd30=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD30.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd42=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD42.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd47=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD47.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd44=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD44.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd46=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD46.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcd56=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.226)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.232)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.250)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCD56.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcu02=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCU02.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)
+
+txndcq32=
+(DESCRIPTION=
+  (CONNECT_TIMEOUT=5)
+  (TRANSPORT_CONNECT_TIMEOUT=3)
+  (RETRY_COUNT=3)
+  (ADDRESS_LIST=
+    (LOAD_BALANCE=on)
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.219)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.220)
+      (PORT=1521)
+    )
+    (ADDRESS=
+      (PROTOCOL=TCP)
+      (HOST=10.169.154.209)
+      (PORT=1521)
+    )
+  )
+  (CONNECT_DATA=
+    (SERVICE_NAME=PXNDCQ32.ocisubnetoraex.ocivneteastusm.oraclevcn.com)
+  )
+)

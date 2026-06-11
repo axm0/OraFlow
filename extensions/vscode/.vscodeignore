@@ -1,0 +1,22 @@
+# Source files (we ship the minified bundle in dist/)
+extension.js
+package-lock.json
+node_modules/**
+.vscode/**
+.gitignore
+.gitattributes
+*.vsix
+*.zip
+**/*.map
+**/*.ts
+src/**
+tests/**
+
+# Conservative runtime-bundle trimming. Keep .dist-info, metadata, and license
+# files because some Python packages query importlib.metadata at runtime and
+# license files should remain available. These entries remove only obvious
+# non-runtime artifacts.
+bin/**/__pycache__/**
+bin/**/tests/**
+bin/**/*.pyi
+

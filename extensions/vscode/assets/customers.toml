@@ -1,0 +1,51 @@
+# OraFlow friendly customer catalog.
+# Keep one active customer/environment/layer at a time.
+#
+# Each [<customer>.env.<env>] block can optionally declare:
+#   tns_alias        = required, the alias as it appears in tnsnames.ora
+#   profile          = credential profile name, e.g. "ONPREM.QA" / "CLOUD.DEV"
+#   layer            = "oltp" | "olap" | "aud" | "dw" | "ods" | "all"
+#   deployment       = "cloud" | "onprem"
+#                      When set, OraFlow refuses to bind this env to a TNS
+#                      alias whose source file disagrees (cloud-tnsnames.ora
+#                      vs tnsnames.ora). Lets you safely have separate cloud
+#                      and onprem variants of the same logical environment.
+#   requires_confirm = bool; PROD is always confirmed regardless.
+
+[vanderbilt]
+display_name = "Vanderbilt"
+aliases = ["vanderbilt", "vandy"]
+default_env = "qa"
+default_layer = "oltp"
+
+[vanderbilt.env.qa]
+tns_alias = "QA11.ZDWNDCQ11"
+profile = "ONPREM.QA"
+layer = "dw"
+deployment = "onprem"
+requires_confirm = false
+
+[vanderbilt.env.uat]
+tns_alias = "VANDERBILT-UAT.TXVNDU01"
+profile = "ONPREM.UAT"
+layer = "oltp"
+deployment = "onprem"
+requires_confirm = false
+
+[vanderbilt.env.prod]
+tns_alias = "VANDERBILT-PROD.TXVNDP01-55"
+profile = "ONPREM.PROD"
+layer = "oltp"
+deployment = "onprem"
+requires_confirm = true
+
+# Example cloud env entry (commented out; copy + edit as needed):
+#
+# [vanderbilt.env.devcloud]
+# tns_alias = "txndcd46"
+# profile = "CLOUD.DEV"
+# layer = "oltp"
+# deployment = "cloud"
+# requires_confirm = false
+
+

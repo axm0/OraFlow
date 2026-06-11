@@ -1,0 +1,11 @@
+-- ==========================================
+
+  CREATE TABLE "TREXONE_DATA"."CONV_FILL_PURGE"
+   (	"FACILITY_NUM" NUMBER(18,0) NOT NULL ENABLE,
+	"RX_RECORD_NUM" NUMBER(18,0) NOT NULL ENABLE,
+	"RX_FILL_SEQ" NUMBER(18,0) NOT NULL ENABLE,
+	"DATESTAMP" DATE,
+	"H_LEVEL" NUMBER,
+	"ERX_CLIENT_ID" VARCHAR2(100) DEFAULT sys_context('ERX_CONTEXT', 'ERX_CLIENT_ID') NOT NULL ENABLE
+   ) ;
+-- ==========================================

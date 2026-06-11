@@ -1,0 +1,30 @@
+# Sample/scrubbed test fixture
+19CDB =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = anaconda-admin.example.com)(PORT = 1537))
+    (CONNECT_DATA = (SERVER = DEDICATED)(SID = 19cdb))
+  )
+
+ACME-PROD.ZDWACMP01 =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = juno-admin.example.com)(PORT = 1521))
+    (CONNECT_DATA = (SERVER = DEDICATED)(SID = dwacmp01))
+  )
+
+ACME-UAT.ZDWACMU01 =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = juno-admin.example.com)(PORT = 1521))
+    (CONNECT_DATA = (SERVER = DEDICATED)(SID = dwacmu01))
+  )
+
+19CDB =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = pluto-admin.example.com)(PORT = 1538))
+    (CONNECT_DATA = (SERVER = DEDICATED)(SID = 19cdb))
+  )
+
+CLOUD_ALIAS, CLOUD_ALIAS_ALT =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 10.0.0.10)(PORT = 1521))
+    (CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = cloud.example.com))
+  )
