@@ -1,7 +1,8 @@
 # OraFlow
 
-Internal, read-only EnterpriseRx investigation assistant: safe Oracle evidence
-capture plus read-only JiraFlow ticket/search evidence.
+Autonomous-agent infrastructure for internal, read-only EnterpriseRx
+investigations: safe Oracle evidence capture plus read-only JiraFlow
+ticket/search evidence.
 
 Documentation is split:
 
